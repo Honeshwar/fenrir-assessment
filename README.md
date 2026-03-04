@@ -1,6 +1,6 @@
 # 🚀 Finrir Assessment
 
-Hosted link: https://finrir-assessment.vercel.app
+Hosted link: https://fenrir-assessment.vercel.app/
 <br>
 Walkthrough video: https://www.loom.com/share/f43661e61ad44562b94ebebd5953d91a
 
